@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>my-overlay</name>
+      <description lang="en">overlay for misc software</description>
+      <homepage>https://github.com/scourii/scolay</homepage>
+        <owner type="person">
+            <name>Enri Lancei</name>
+            <email>eneblank19@protonmail.com</email>
+        </owner>
+        <source type="git">git://github.com/scourii/scolay.git</source>
+        <feed>https://github.com/scourii/scolay/commits/master.atom</feed>
+  </repo>
+</repositories>
